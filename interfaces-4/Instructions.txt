@@ -1,0 +1,1 @@
+Solução com uso de interfaces.

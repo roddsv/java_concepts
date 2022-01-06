@@ -1,0 +1,2 @@
+Solução do problema sem interfaces. O projeto interfaces-2 terá a solução do mesmo problema,
+com o uso de interfaces.

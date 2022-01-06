@@ -1,0 +1,1 @@
+Solução sem uso de interfaces. O uso de interfaces será no projeto interfaces-4.
